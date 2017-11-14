@@ -22,3 +22,4 @@ This script will ask you a number and draw a triangle as shown below, for exampl
 ***
 **
 *
+
